@@ -1,8 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Bhakti Bagadia</h1>
 <h3 align="center">A passionate problem solver!</h3>
-
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gif-gifs&psig=AOvVaw2QQLgH7dTPXANLK3axWKv8&ust=1708448683688000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjqhrvxt4QDFQAAAAAdAAAAABAY](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2Fqa34t&psig=AOvVaw2QQLgH7dTPXANLK3axWKv8&ust=1708448683688000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjqhrvxt4QDFQAAAAAdAAAAABAh)">
 
 - 🔭 I’m currently working on [Flutter Applications](https://github.com/bhaktibagadia/news_app)
 
